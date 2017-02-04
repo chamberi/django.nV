@@ -185,9 +185,9 @@ def upload(request, project_id):
                 (name, upload_path, project_id))
 
             # file = File(
-            #name = name,
-            #path = upload_path,
-            # project = proj)
+            # name=name,
+            # path=upload_path,
+            # project=proj)
 
             # file.save()
 
